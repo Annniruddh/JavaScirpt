@@ -1,2 +1,2 @@
-# JavaScirpt
+# JavaScript
 A code repo for Javascirpt codes
